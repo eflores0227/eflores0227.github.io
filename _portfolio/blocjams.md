@@ -3,7 +3,15 @@ layout: post
 title: BlocJams
 feature-img: "img/sample_feature_img.png"
 thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/2030966/blocjams_1x.png"
-short-description: BlocJams for iOS is awesome!
+short-description: BlocJams is a digital music player like Spotify. Bloc Jams has a backbone of HTML, for layout, and CSS, for styling and responsiveness. Javascript is implemented for interactivity.
 
 ---
-This is an example of a post which includes a feature image specified in the front matter of the post. The feature image spans the full-width of the page, and is shown with the title on permalink pages.
+#### Summary
+BlocJams is a digital music player. The user can listen to and enjoy their music through an aesthetically pleasing and responsive app.
+
+#### User Cases
+* Add basic structure
+* Add styles and responsiveness
+* Include a play/pause button
+* Include a seek bar
+* Refactor application using AngularJS 

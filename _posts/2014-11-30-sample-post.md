@@ -1,18 +1,19 @@
 ---
 layout: post
-title: Sample post
+title: My journey with Bloc
 ---
-Consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt congue enim, ut porta lorem lacinia consectetur. Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut gravida lorem.
+Coming from a background in Cosmetology, and little to no knowledge of web development, Bloc really helped me learn everything I needed to know to get started in the industry and establish a love for it.
 
-* Consectetur adipiscing elit
-* Donec a diam lectus
-* Sed sit amet ipsum mauris
+* Rails Development
+* Frontend Development
+* Software Engineering Principles
+* Open source
 
-Ut turpis felis, pulvinar a semper sed, adipiscing id dolor. Pellentesque auctor nisi id magna consequat sagittis. Curabitur dapibus enim sit amet elit pharetra tincidunt feugiat nisl imperdiet. Ut convallis libero in urna ultrices accumsan. Donec sed odio eros. Donec viverra mi quis quam pulvinar at malesuada arcu rhoncus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In rutrum accumsan ultricies. Mauris vitae nisi at sem facilisis semper ac in est.
+I am not going to sugarcoat it, this course has been tough. Working completely online was, personally, terrifying. I had taken online classes before but not one so intense. I had done a Skillcrush course on frontend web development prior to Bloc but, this was the first time I had a mapped timeline, this was the real deal. Bloc made the transition easy by providing a mentor for every step of the way and it helped tremendously. As soon as I had gotten through the initial shock and asking the question, "Is this really for me?", I fell in love. I loved the feeling that I was building something from scratch that I could show people. There is something so satisfying about doing something so small, like adding "Hello World" to your first project and seeing it displayed on your local host.
 
-Nunc diam velit, adipiscing ut tristique vitae, sagittis vel odio. Maecenas convallis ullamcorper ultricies. Curabitur ornare, ligula *semper consectetur sagittis*, nisi diam iaculis velit, id fringilla sem nunc vel mi. Nam dictum, odio nec pretium volutpat, arcu ante placerat erat, non tristique elit urna et turpis. Quisque mi metus, ornare sit amet fermentum et, tincidunt et orci. Fusce eget orci a orci congue vestibulum.
+The frontend course was when I really realized this was something I could do forever. Don't get me wrong, the backend course and using Rails was fun and exciting but, I needed something a little more creative. Going from Ruby to Javascript was a bit of an adjustment and, sooner rather than later it was second nature. I thoroughly enjoyed creating web applications that were both functional and aesthetically pleasing.  
 
-Ut dolor diam, elementum et vestibulum eu, porttitor vel elit. Curabitur venenatis pulvinar tellus gravida ornare. Sed et erat faucibus nunc euismod ultricies ut id justo. Nullam cursus suscipit nisi, et ultrices justo sodales nec. Fusce venenatis facilisis lectus ac semper. Aliquam at massa ipsum. Quisque bibendum purus convallis nulla ultrices ultricies. Nullam aliquam, mi eu aliquam tincidunt, purus velit laoreet tortor, viverra pretium nisi quam vitae mi. Fusce vel volutpat elit. Nam sagittis nisi dui.
+Excuse my French but, holy shit, this was the hardest part in my journey to becoming a software engineer.
 
 > Suspendisse lectus leo, consectetur in tempor sit amet, placerat quis neque
 

@@ -23,9 +23,9 @@ theme_settings:
   behance:
   bitbucket:
   dribbble:
-  facebook:
+  facebook: ghjgh
   flickr:
-  github: https://www.github.com/eflores0227
+  github: eflores0227
   google_plus:
   instagram:
   linkedin:  https://linkedin.com/in/estefania-flores
@@ -40,7 +40,7 @@ theme_settings:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-91544622-1"
   disqus_shortname:
   katex: true # Enable if using math markup
 

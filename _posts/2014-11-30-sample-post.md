@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My journey with Bloc
+title: My Journey With Bloc
 ---
 Coming from a background in Cosmetology, and little to no knowledge of web development, Bloc really helped me learn everything I needed to know to get started in the industry and establish a love for it.
 
@@ -13,10 +13,6 @@ I am not going to sugarcoat it, this course has been tough. Working completely o
 
 The frontend course was when I really realized this was something I could do forever. Don't get me wrong, the backend course and using Rails was fun and exciting but, I needed something a little more creative. Going from Ruby to Javascript was a bit of an adjustment and, sooner rather than later it was second nature. I thoroughly enjoyed creating web applications that were both functional and aesthetically pleasing.  
 
-Excuse my French but, holy shit, this was the hardest part in my journey to becoming a software engineer.
+This was the hardest part in my journey to becoming a software engineer, the software engineering principles. I learned a lot about how I learn during this part. I learned that I like writing my code on a whiteboard before implementing anything I also learned that I need to visualize what is actually happening when it comes to more complex aspects. In my head I would imagine binary trees because seeing the code alone was hard for me to actually interpret. I started drawing pictures next to the steps in my code so I could solve the problems more easily.
 
-> Suspendisse lectus leo, consectetur in tempor sit amet, placerat quis neque
-
-Etiam luctus porttitor lorem, sed suscipit est rutrum non. Curabitur lobortis nisl a enim congue semper. Aenean commodo ultrices imperdiet. Vestibulum ut justo vel sapien venenatis tincidunt.
-
-Phasellus eget dolor sit amet ipsum dapibus condimentum vitae quis lectus. Aliquam ut massa in turpis dapibus convallis. Praesent elit lacus, vestibulum at malesuada et, ornare et est. Ut augue nunc, sodales ut euismod non, adipiscing vitae orci. Mauris ut placerat justo. Mauris in ultricies enim. Quisque nec est eleifend nulla ultrices egestas quis ut quam. Donec sollicitudin lectus a mauris pulvinar id aliquam urna cursus. Cras quis ligula sem, vel elementum mi. Phasellus non ullamcorper urna.
+At the end of the all, I learned not only how to program and think like a developer, but how to learn like a developer. I loved every bit of it and appreciate the help I received from my mentor and the experience I gained from learning software engineering from Bloc.

@@ -13,6 +13,6 @@ feature-img: "img/sample_feature_img_2.png"
   <input type='hidden' name='redirect_to' value='http://www.estefaniaflores.com/thank-you' />
   <input type='text' name='name' placeholder='name' />
   <input type='email' name='email' placeholder='email' />
-  <textarea name='message' placeholder='message'></textarea>
+  <input name='message' placeholder='message' />
   <input type='submit' value='Send Message' />
 </form>

@@ -14,4 +14,6 @@ BlocJams is a digital music player. The user can listen to and enjoy their music
 * Add styles and responsiveness
 * Include a play/pause button
 * Include a seek bar
-* Refactor application using AngularJS 
+* Refactor application using AngularJS
+
+[BlocJams](https://github.com/eflores0227/bloc-jams) 

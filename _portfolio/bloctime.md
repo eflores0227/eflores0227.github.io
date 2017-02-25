@@ -19,4 +19,4 @@ Bloctime is an app that helps with time management using the Pomodoro Technique.
 * Add the ability to record completed tasks.
 * Provide a view with a history of all tasks in reverse chronological order.
 
-[Bloctime](https://www.github.com/bloctime)
+[Bloctime](https://github.com/eflores0227/bloctime)

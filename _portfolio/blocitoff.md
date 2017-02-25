@@ -15,4 +15,6 @@ Blocitoff aims to keep to-do lists manageable by automatically deleting to-do it
 * Be able to seed the development database automatically with users and to-do items.
 * Be able to mark to-do items as complete and have them deleted.
 * Display how old a to-do item is.
-* To-dos should be automatically deleted seven days after their creation date. 
+* To-dos should be automatically deleted seven days after their creation date.
+
+[Blocitoff](https://github.com/eflores0227/blocitoff) 

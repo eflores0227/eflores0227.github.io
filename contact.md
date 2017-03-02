@@ -10,7 +10,7 @@ feature-img: "img/sample_feature_img_2.png"
 
 <form action="https://getsimpleform.com/messages?form_api_token=d0b9aaabed0b886baa4899ecc418323a" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-  <!-- <input type='hidden' name='redirect_to' value='http://www.estefaniaflores.com/thank-you' /> -->
+  <!-- <input type='hidden' name='redirect_to' value='http://bloc.github.io/portfolio-iro/thank-you/' /> -->
   <input type='text' name='name' placeholder='name' />
   <input type='email' name='email' placeholder='email' />
   <input name='message' placeholder='message' />
